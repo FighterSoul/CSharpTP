@@ -1,0 +1,14 @@
+C:\Users\MSI\source\repos\TP1\TP1\obj\Debug\net8.0\TP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\TP1\TP1\obj\Debug\net8.0\TP1.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\TP1\TP1\obj\Debug\net8.0\TP1.AssemblyInfo.cs
+C:\Users\MSI\source\repos\TP1\TP1\obj\Debug\net8.0\TP1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\TP1\TP1\bin\Debug\net8.0\TP1.exe
+C:\Users\MSI\source\repos\TP1\TP1\bin\Debug\net8.0\TP1.deps.json
+C:\Users\MSI\source\repos\TP1\TP1\bin\Debug\net8.0\TP1.runtimeconfig.json
+C:\Users\MSI\source\repos\TP1\TP1\bin\Debug\net8.0\TP1.dll
+C:\Users\MSI\source\repos\TP1\TP1\bin\Debug\net8.0\TP1.pdb
+C:\Users\MSI\source\repos\TP1\TP1\obj\Debug\net8.0\TP1.dll
+C:\Users\MSI\source\repos\TP1\TP1\obj\Debug\net8.0\refint\TP1.dll
+C:\Users\MSI\source\repos\TP1\TP1\obj\Debug\net8.0\TP1.pdb
+C:\Users\MSI\source\repos\TP1\TP1\obj\Debug\net8.0\TP1.genruntimeconfig.cache
+C:\Users\MSI\source\repos\TP1\TP1\obj\Debug\net8.0\ref\TP1.dll
