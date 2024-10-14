@@ -1,6 +1,3 @@
-using System;
-using System.Windows.Forms;
-
 namespace TP2EX1
 {
     public partial class Form1 : Form
@@ -23,6 +20,11 @@ namespace TP2EX1
         private void btnBlue_Click(object sender, EventArgs e)
         {
             this.BackColor = System.Drawing.Color.Blue;
+        }
+
+        private void btnDefault_Click(object sender, EventArgs e)
+        {
+            this.BackColor = this.defaultBackColor;
         }
     }
 }

@@ -20,9 +20,7 @@
             this.btnToggle = new System.Windows.Forms.Button();
             this.lblMessage = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // btnToggle
-            // 
+            
             this.btnToggle.Location = new System.Drawing.Point(100, 100);
             this.btnToggle.Name = "btnToggle";
             this.btnToggle.Size = new System.Drawing.Size(100, 30);
@@ -30,17 +28,13 @@
             this.btnToggle.Text = "Afficher";
             this.btnToggle.UseVisualStyleBackColor = true;
             this.btnToggle.Click += new System.EventHandler(this.btnToggle_Click);
-            // 
-            // lblMessage
-            // 
+            
             this.lblMessage.AutoSize = true;
             this.lblMessage.Location = new System.Drawing.Point(100, 50);
             this.lblMessage.Name = "lblMessage";
             this.lblMessage.Size = new System.Drawing.Size(0, 20);
             this.lblMessage.TabIndex = 1;
-            // 
-            // Form1
-            // 
+            
             this.ClientSize = new System.Drawing.Size(300, 200);
             this.Controls.Add(this.lblMessage);
             this.Controls.Add(this.btnToggle);

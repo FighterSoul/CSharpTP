@@ -14,7 +14,7 @@ namespace TP2EX5
         {
             if (double.TryParse(txtDinar.Text, out double dinar) && dinar > 0)
             {
-                double euro = dinar / 3.2;  // assuming a conversion rate
+                double euro = dinar / 3.2;  
                 txtEuro.Text = euro.ToString("F2");
             }
             else

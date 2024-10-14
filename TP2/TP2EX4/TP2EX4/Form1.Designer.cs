@@ -28,38 +28,28 @@
             this.btnCalculate = new System.Windows.Forms.Button();
             this.lblError = new System.Windows.Forms.Label();
             this.SuspendLayout();
-            // 
-            // txtUnitPrice
-            // 
+            
             this.txtUnitPrice.Location = new System.Drawing.Point(50, 30);
             this.txtUnitPrice.Name = "txtUnitPrice";
             this.txtUnitPrice.Size = new System.Drawing.Size(100, 26);
             this.txtUnitPrice.TabIndex = 0;
-            // 
-            // txtQuantity
-            // 
+            
             this.txtQuantity.Location = new System.Drawing.Point(200, 30);
             this.txtQuantity.Name = "txtQuantity";
             this.txtQuantity.Size = new System.Drawing.Size(100, 26);
             this.txtQuantity.TabIndex = 1;
-            // 
-            // txtVAT
-            // 
+            
             this.txtVAT.Location = new System.Drawing.Point(350, 30);
             this.txtVAT.Name = "txtVAT";
             this.txtVAT.Size = new System.Drawing.Size(100, 26);
             this.txtVAT.TabIndex = 2;
-            // 
-            // txtTotalPrice
-            // 
+            
             this.txtTotalPrice.Location = new System.Drawing.Point(50, 100);
             this.txtTotalPrice.Name = "txtTotalPrice";
             this.txtTotalPrice.ReadOnly = true;
             this.txtTotalPrice.Size = new System.Drawing.Size(100, 26);
             this.txtTotalPrice.TabIndex = 3;
-            // 
-            // btnCalculate
-            // 
+            
             this.btnCalculate.Location = new System.Drawing.Point(200, 100);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(100, 30);
@@ -67,17 +57,13 @@
             this.btnCalculate.Text = "Calculer";
             this.btnCalculate.UseVisualStyleBackColor = true;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
-            // 
-            // lblError
-            // 
+            
             this.lblError.AutoSize = true;
             this.lblError.Location = new System.Drawing.Point(50, 150);
             this.lblError.Name = "lblError";
             this.lblError.Size = new System.Drawing.Size(0, 20);
             this.lblError.TabIndex = 5;
-            // 
-            // Form1
-            // 
+            
             this.ClientSize = new System.Drawing.Size(500, 200);
             this.Controls.Add(this.lblError);
             this.Controls.Add(this.btnCalculate);

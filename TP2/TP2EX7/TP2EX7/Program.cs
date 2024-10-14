@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace FormColorApp
+namespace TP2EX7
 {
     static class Program
     {

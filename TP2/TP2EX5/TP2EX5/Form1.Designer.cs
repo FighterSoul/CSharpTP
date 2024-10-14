@@ -26,24 +26,18 @@
             this.btnClear = new System.Windows.Forms.Button();
             this.btnQuit = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // txtDinar
-            // 
+            
             this.txtDinar.Location = new System.Drawing.Point(50, 30);
             this.txtDinar.Name = "txtDinar";
             this.txtDinar.Size = new System.Drawing.Size(100, 26);
             this.txtDinar.TabIndex = 0;
-            // 
-            // txtEuro
-            // 
+           
             this.txtEuro.Location = new System.Drawing.Point(200, 30);
             this.txtEuro.Name = "txtEuro";
             this.txtEuro.ReadOnly = true;
             this.txtEuro.Size = new System.Drawing.Size(100, 26);
             this.txtEuro.TabIndex = 1;
-            // 
-            // btnConvert
-            // 
+            
             this.btnConvert.Location = new System.Drawing.Point(50, 100);
             this.btnConvert.Name = "btnConvert";
             this.btnConvert.Size = new System.Drawing.Size(100, 30);
@@ -51,9 +45,7 @@
             this.btnConvert.Text = "Convertir";
             this.btnConvert.UseVisualStyleBackColor = true;
             this.btnConvert.Click += new System.EventHandler(this.btnConvert_Click);
-            // 
-            // btnClear
-            // 
+           
             this.btnClear.Location = new System.Drawing.Point(200, 100);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(100, 30);
@@ -61,9 +53,7 @@
             this.btnClear.Text = "Annuler";
             this.btnClear.UseVisualStyleBackColor = true;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
-            // 
-            // btnQuit
-            // 
+            
             this.btnQuit.Location = new System.Drawing.Point(350, 100);
             this.btnQuit.Name = "btnQuit";
             this.btnQuit.Size = new System.Drawing.Size(100, 30);
@@ -71,9 +61,7 @@
             this.btnQuit.Text = "Quitter";
             this.btnQuit.UseVisualStyleBackColor = true;
             this.btnQuit.Click += new System.EventHandler(this.btnQuit_Click);
-            // 
-            // Form1
-            // 
+            
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(500, 200);

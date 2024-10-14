@@ -28,31 +28,23 @@
             this.btnClear = new System.Windows.Forms.Button();
             this.btnQuit = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // txtNumber1
-            // 
+            
             this.txtNumber1.Location = new System.Drawing.Point(50, 30);
             this.txtNumber1.Name = "txtNumber1";
             this.txtNumber1.Size = new System.Drawing.Size(100, 26);
             this.txtNumber1.TabIndex = 0;
-            // 
-            // txtNumber2
-            // 
+           
             this.txtNumber2.Location = new System.Drawing.Point(200, 30);
             this.txtNumber2.Name = "txtNumber2";
             this.txtNumber2.Size = new System.Drawing.Size(100, 26);
             this.txtNumber2.TabIndex = 1;
-            // 
-            // txtSum
-            // 
+           
             this.txtSum.Location = new System.Drawing.Point(350, 30);
             this.txtSum.Name = "txtSum";
             this.txtSum.ReadOnly = true;
             this.txtSum.Size = new System.Drawing.Size(100, 26);
             this.txtSum.TabIndex = 2;
-            // 
-            // btnCalculate
-            // 
+            
             this.btnCalculate.Location = new System.Drawing.Point(50, 100);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(100, 30);
@@ -60,9 +52,7 @@
             this.btnCalculate.Text = "Calculer";
             this.btnCalculate.UseVisualStyleBackColor = true;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
-            // 
-            // btnClear
-            // 
+             
             this.btnClear.Location = new System.Drawing.Point(200, 100);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(100, 30);
@@ -70,9 +60,7 @@
             this.btnClear.Text = "Annuler";
             this.btnClear.UseVisualStyleBackColor = true;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
-            // 
-            // btnQuit
-            // 
+            
             this.btnQuit.Location = new System.Drawing.Point(350, 100);
             this.btnQuit.Name = "btnQuit";
             this.btnQuit.Size = new System.Drawing.Size(100, 30);
@@ -80,9 +68,7 @@
             this.btnQuit.Text = "Quitter";
             this.btnQuit.UseVisualStyleBackColor = true;
             this.btnQuit.Click += new System.EventHandler(this.btnQuit_Click);
-            // 
-            // Form1
-            // 
+            
             this.ClientSize = new System.Drawing.Size(500, 200);
             this.Controls.Add(this.btnQuit);
             this.Controls.Add(this.btnClear);

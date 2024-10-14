@@ -16,12 +16,12 @@ namespace TP2EX9
 
                 if (rdoDinarToEuro.Checked)
                 {
-                    result = amount / 3.3; // Exemple de taux de conversion
+                    result = amount / 3.3;
                     lblResult.Text = $"{amount} Dinar = {result:F2} Euro";
                 }
                 else if (rdoEuroToDinar.Checked)
                 {
-                    result = amount * 3.3; // Exemple de taux de conversion
+                    result = amount * 3.3; 
                     lblResult.Text = $"{amount} Euro = {result:F2} Dinar";
                 }
                 else

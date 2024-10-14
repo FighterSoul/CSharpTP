@@ -25,7 +25,20 @@ namespace TP2EX8
                     case "-":
                         result = num1 - num2;
                         break;
-                        // Add more operations as needed
+                    case "*":
+                        result = num1 * num2;
+                        break;
+                    case "/":
+                        if (num2 != 0)
+                        {
+                            result = num1 / num2;
+                        }
+                        else
+                        {
+                            MessageBox.Show("Division par zéro n'est pas permise.", "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            return;
+                        }
+                        break;
                 }
 
                 lblResult.Text = $"Résultat: {result}";
@@ -40,3 +53,4 @@ namespace TP2EX8
         }
     }
 }
+

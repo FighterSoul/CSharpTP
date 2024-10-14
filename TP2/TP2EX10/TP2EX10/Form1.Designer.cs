@@ -28,9 +28,7 @@
             this.chkDish2 = new System.Windows.Forms.CheckBox();
             this.chkDish3 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
-            // 
-            // btnOrder
-            // 
+           
             this.btnOrder.Location = new System.Drawing.Point(50, 150);
             this.btnOrder.Name = "btnOrder";
             this.btnOrder.Size = new System.Drawing.Size(100, 30);
@@ -38,9 +36,7 @@
             this.btnOrder.Text = "Commander";
             this.btnOrder.UseVisualStyleBackColor = true;
             this.btnOrder.Click += new System.EventHandler(this.btnOrder_Click);
-            // 
-            // btnToggleCheck
-            // 
+           
             this.btnToggleCheck.Location = new System.Drawing.Point(200, 150);
             this.btnToggleCheck.Name = "btnToggleCheck";
             this.btnToggleCheck.Size = new System.Drawing.Size(150, 30);
@@ -48,9 +44,7 @@
             this.btnToggleCheck.Text = "Cocher tout";
             this.btnToggleCheck.UseVisualStyleBackColor = true;
             this.btnToggleCheck.Click += new System.EventHandler(this.btnToggleCheck_Click);
-            // 
-            // btnQuit
-            // 
+            
             this.btnQuit.Location = new System.Drawing.Point(400, 150);
             this.btnQuit.Name = "btnQuit";
             this.btnQuit.Size = new System.Drawing.Size(100, 30);
@@ -58,9 +52,7 @@
             this.btnQuit.Text = "Quitter";
             this.btnQuit.UseVisualStyleBackColor = true;
             this.btnQuit.Click += new System.EventHandler(this.btnQuit_Click);
-            // 
-            // chkDish1
-            // 
+            
             this.chkDish1.AutoSize = true;
             this.chkDish1.Location = new System.Drawing.Point(50, 30);
             this.chkDish1.Name = "chkDish1";
@@ -68,9 +60,7 @@
             this.chkDish1.TabIndex = 3;
             this.chkDish1.Text = "Plat1";
             this.chkDish1.UseVisualStyleBackColor = true;
-            // 
-            // chkDish2
-            // 
+            
             this.chkDish2.AutoSize = true;
             this.chkDish2.Location = new System.Drawing.Point(50, 70);
             this.chkDish2.Name = "chkDish2";
@@ -78,9 +68,7 @@
             this.chkDish2.TabIndex = 4;
             this.chkDish2.Text = "Plat2";
             this.chkDish2.UseVisualStyleBackColor = true;
-            // 
-            // chkDish3
-            // 
+            
             this.chkDish3.AutoSize = true;
             this.chkDish3.Location = new System.Drawing.Point(50, 110);
             this.chkDish3.Name = "chkDish3";
@@ -88,9 +76,7 @@
             this.chkDish3.TabIndex = 5;
             this.chkDish3.Text = "Plat3";
             this.chkDish3.UseVisualStyleBackColor = true;
-            // 
-            // Form1
-            // 
+            
             this.ClientSize = new System.Drawing.Size(550, 250);
             this.Controls.Add(this.chkDish3);
             this.Controls.Add(this.chkDish2);

@@ -28,23 +28,17 @@
             this.btnCalculate = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // txtNumber1
-            // 
+             
             this.txtNumber1.Location = new System.Drawing.Point(50, 30);
             this.txtNumber1.Name = "txtNumber1";
             this.txtNumber1.Size = new System.Drawing.Size(100, 26);
             this.txtNumber1.TabIndex = 0;
-            // 
-            // txtNumber2
-            // 
+            
             this.txtNumber2.Location = new System.Drawing.Point(200, 30);
             this.txtNumber2.Name = "txtNumber2";
             this.txtNumber2.Size = new System.Drawing.Size(100, 26);
             this.txtNumber2.TabIndex = 1;
-            // 
-            // cmbOperation
-            // 
+            
             this.cmbOperation.FormattingEnabled = true;
             this.cmbOperation.Items.AddRange(new object[] {
             "+",
@@ -55,9 +49,7 @@
             this.cmbOperation.Name = "cmbOperation";
             this.cmbOperation.Size = new System.Drawing.Size(100, 28);
             this.cmbOperation.TabIndex = 2;
-            // 
-            // btnCalculate
-            // 
+             
             this.btnCalculate.Location = new System.Drawing.Point(50, 150);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(100, 30);
@@ -65,9 +57,7 @@
             this.btnCalculate.Text = "Calculer";
             this.btnCalculate.UseVisualStyleBackColor = true;
             this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
-            // 
-            // btnClear
-            // 
+           
             this.btnClear.Location = new System.Drawing.Point(200, 150);
             this.btnClear.Name = "btnClear";
             this.btnClear.Size = new System.Drawing.Size(100, 30);
@@ -75,17 +65,13 @@
             this.btnClear.Text = "Annuler";
             this.btnClear.UseVisualStyleBackColor = true;
             this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
-            // 
-            // lblResult
-            // 
+            
             this.lblResult.AutoSize = true;
             this.lblResult.Location = new System.Drawing.Point(50, 110);
             this.lblResult.Name = "lblResult";
             this.lblResult.Size = new System.Drawing.Size(0, 20);
             this.lblResult.TabIndex = 5;
-            // 
-            // Form1
-            // 
+           
             this.ClientSize = new System.Drawing.Size(350, 250);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.btnClear);

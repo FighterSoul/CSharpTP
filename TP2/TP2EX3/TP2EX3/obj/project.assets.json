@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\TP2EX3\\TP2EX3.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\source\\repos\\TP2\\TP2EX3\\TP2EX3\\TP2EX3.csproj",
       "projectName": "TP2EX3",
-      "projectPath": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\TP2EX3\\TP2EX3.csproj",
+      "projectPath": "C:\\Users\\MSI\\source\\repos\\TP2\\TP2EX3\\TP2EX3\\TP2EX3.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\TP2EX3\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\source\\repos\\TP2\\TP2EX3\\TP2EX3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
