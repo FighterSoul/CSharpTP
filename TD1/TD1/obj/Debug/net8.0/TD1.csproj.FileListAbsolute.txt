@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\TD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\TD1.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\TD1.AssemblyInfo.cs
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\TD1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\TD1.sourcelink.json
+C:\Users\MSI\source\repos\TD1\TD1\bin\Debug\net8.0\TD1.exe
+C:\Users\MSI\source\repos\TD1\TD1\bin\Debug\net8.0\TD1.deps.json
+C:\Users\MSI\source\repos\TD1\TD1\bin\Debug\net8.0\TD1.runtimeconfig.json
+C:\Users\MSI\source\repos\TD1\TD1\bin\Debug\net8.0\TD1.dll
+C:\Users\MSI\source\repos\TD1\TD1\bin\Debug\net8.0\TD1.pdb
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\TD1.dll
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\refint\TD1.dll
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\TD1.pdb
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\TD1.genruntimeconfig.cache
+C:\Users\MSI\source\repos\TD1\TD1\obj\Debug\net8.0\ref\TD1.dll

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86C1B4DF-FA65-4E0D-98B3-503091CC45D9}|TP2EX3\\TP2EX3.csproj|c:\\users\\msi\\source\\repos\\tp2ex3\\tp2ex3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86C1B4DF-FA65-4E0D-98B3-503091CC45D9}|TP2EX3\\TP2EX3.csproj|solutionrelative:tp2ex3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C1B4DF-FA65-4E0D-98B3-503091CC45D9}|TP2EX3\\TP2EX3.csproj|c:\\users\\msi\\source\\repos\\tp2ex3\\tp2ex3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C1B4DF-FA65-4E0D-98B3-503091CC45D9}|TP2EX3\\TP2EX3.csproj|solutionrelative:tp2ex3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C1B4DF-FA65-4E0D-98B3-503091CC45D9}|TP2EX3\\TP2EX3.csproj|c:\\users\\msi\\source\\repos\\tp2ex3\\tp2ex3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C1B4DF-FA65-4E0D-98B3-503091CC45D9}|TP2EX3\\TP2EX3.csproj|solutionrelative:tp2ex3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\TP2EX3\\Form1.cs",
+              "RelativeDocumentMoniker": "TP2EX3\\Form1.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\TP2EX3\\Form1.cs",
+              "RelativeToolTip": "TP2EX3\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:50:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\TP2EX3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TP2EX3\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\TP2EX3\\Form1.Designer.cs",
+              "RelativeToolTip": "TP2EX3\\Form1.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:50:31.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\TP2EX3\\Form1.cs",
+              "RelativeDocumentMoniker": "TP2EX3\\Form1.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\TP2EX3\\TP2EX3\\Form1.cs [Conception]",
+              "RelativeToolTip": "TP2EX3\\Form1.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:50:05.042Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
