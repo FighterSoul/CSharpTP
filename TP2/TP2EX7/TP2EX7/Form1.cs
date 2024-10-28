@@ -20,11 +20,6 @@ namespace TP2EX7
             this.BackColor = System.Drawing.SystemColors.Control;
         }
 
-        private void Color_CheckedChanged(object sender, EventArgs e)
-        {
-            UpdateBackgroundColor();
-        }
-
         private void UpdateBackgroundColor()
         {
             if (rdoRed.Checked)
@@ -38,6 +33,3 @@ namespace TP2EX7
         }
     }
 }
-
-
-

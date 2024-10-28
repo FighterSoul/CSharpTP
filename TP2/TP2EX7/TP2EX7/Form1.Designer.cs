@@ -28,7 +28,7 @@
             this.rdoBlue = new System.Windows.Forms.RadioButton();
             this.rdoDefault = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
-             
+
             this.btnOK.Location = new System.Drawing.Point(50, 200);
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(100, 30);
@@ -36,7 +36,7 @@
             this.btnOK.Text = "OK";
             this.btnOK.UseVisualStyleBackColor = true;
             this.btnOK.Click += new System.EventHandler(this.btnOK_Click);
-            
+
             this.btnCancel.Location = new System.Drawing.Point(200, 200);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(100, 30);
@@ -44,7 +44,7 @@
             this.btnCancel.Text = "Annuler";
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
-             
+
             this.rdoRed.AutoSize = true;
             this.rdoRed.Location = new System.Drawing.Point(50, 50);
             this.rdoRed.Name = "rdoRed";
@@ -53,8 +53,7 @@
             this.rdoRed.TabStop = true;
             this.rdoRed.Text = "Rouge";
             this.rdoRed.UseVisualStyleBackColor = true;
-            this.rdoRed.CheckedChanged += new System.EventHandler(this.Color_CheckedChanged);
-            
+
             this.rdoGreen.AutoSize = true;
             this.rdoGreen.Location = new System.Drawing.Point(50, 100);
             this.rdoGreen.Name = "rdoGreen";
@@ -63,8 +62,7 @@
             this.rdoGreen.TabStop = true;
             this.rdoGreen.Text = "Vert";
             this.rdoGreen.UseVisualStyleBackColor = true;
-            this.rdoGreen.CheckedChanged += new System.EventHandler(this.Color_CheckedChanged);
-            
+
             this.rdoBlue.AutoSize = true;
             this.rdoBlue.Location = new System.Drawing.Point(50, 150);
             this.rdoBlue.Name = "rdoBlue";
@@ -73,8 +71,7 @@
             this.rdoBlue.TabStop = true;
             this.rdoBlue.Text = "Bleu";
             this.rdoBlue.UseVisualStyleBackColor = true;
-            this.rdoBlue.CheckedChanged += new System.EventHandler(this.Color_CheckedChanged);
-            
+
             this.rdoDefault.AutoSize = true;
             this.rdoDefault.Location = new System.Drawing.Point(200, 150);
             this.rdoDefault.Name = "rdoDefault";
@@ -83,8 +80,7 @@
             this.rdoDefault.TabStop = true;
             this.rdoDefault.Text = "Défaut";
             this.rdoDefault.UseVisualStyleBackColor = true;
-            this.rdoDefault.CheckedChanged += new System.EventHandler(this.Color_CheckedChanged);
-            
+
             this.ClientSize = new System.Drawing.Size(350, 250);
             this.Controls.Add(this.rdoDefault);
             this.Controls.Add(this.rdoBlue);
@@ -96,6 +92,7 @@
             this.ResumeLayout(false);
             this.PerformLayout();
         }
+
     }
 }
 
