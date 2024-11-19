@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\TD3EX1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDDB725-CC70-4D0F-A0BD-6FE4453C92A9}|TD3EX1\\TD3EX1.csproj|c:\\users\\msi\\source\\repos\\td3ex1\\td3ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDDB725-CC70-4D0F-A0BD-6FE4453C92A9}|TD3EX1\\TD3EX1.csproj|solutionrelative:td3ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDDB725-CC70-4D0F-A0BD-6FE4453C92A9}|TD3EX1\\TD3EX1.csproj|c:\\users\\msi\\source\\repos\\td3ex1\\td3ex1\\calculatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDDB725-CC70-4D0F-A0BD-6FE4453C92A9}|TD3EX1\\TD3EX1.csproj|solutionrelative:td3ex1\\calculatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculatrice.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\TD3EX1\\TD3EX1\\Calculatrice.cs",
+              "RelativeDocumentMoniker": "TD3EX1\\Calculatrice.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\TD3EX1\\TD3EX1\\Calculatrice.cs",
+              "RelativeToolTip": "TD3EX1\\Calculatrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:04:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\TD3EX1\\TD3EX1\\Program.cs",
+              "RelativeDocumentMoniker": "TD3EX1\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\TD3EX1\\TD3EX1\\Program.cs",
+              "RelativeToolTip": "TD3EX1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:01:44.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

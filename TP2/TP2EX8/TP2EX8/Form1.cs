@@ -12,36 +12,40 @@ namespace TP2EX8
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            if (double.TryParse(txtNumber1.Text, out double num1) && double.TryParse(txtNumber2.Text, out double num2))
+            if (double.TryParse(txtNumber1.Text, out double number1) && double.TryParse(txtNumber2.Text, out double number2))
             {
-                string operation = cmbOperation.SelectedItem.ToString();
                 double result = 0;
 
-                switch (operation)
+                if (rdoAddition.Checked)
                 {
-                    case "+":
-                        result = num1 + num2;
-                        break;
-                    case "-":
-                        result = num1 - num2;
-                        break;
-                    case "*":
-                        result = num1 * num2;
-                        break;
-                    case "/":
-                        if (num2 != 0)
-                        {
-                            result = num1 / num2;
-                        }
-                        else
-                        {
-                            MessageBox.Show("Division par zéro n'est pas permise.", "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                            return;
-                        }
-                        break;
+                    result = number1 + number2;
+                }
+                else if (rdoSubtraction.Checked)
+                {
+                    result = number1 - number2;
+                }
+                else if (rdoMultiplication.Checked)
+                {
+                    result = number1 * number2;
+                }
+                else if (rdoDivision.Checked)
+                {
+                    if (number2 != 0)
+                    {
+                        result = number1 / number2;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Division by zero is not allowed.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
                 }
 
-                lblResult.Text = $"Résultat: {result}";
+                txtResult.Text = result.ToString();
+            }
+            else
+            {
+                MessageBox.Show("Please enter valid numbers.", "Invalid Input", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
@@ -49,8 +53,12 @@ namespace TP2EX8
         {
             txtNumber1.Clear();
             txtNumber2.Clear();
-            lblResult.Text = "";
+            txtResult.Clear();
+            rdoAddition.Checked = false;
+            rdoSubtraction.Checked = false;
+            rdoMultiplication.Checked = false;
+            rdoDivision.Checked = false;
         }
+
     }
 }
-

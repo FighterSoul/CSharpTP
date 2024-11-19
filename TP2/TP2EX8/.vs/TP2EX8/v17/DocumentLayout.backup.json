@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "TP2EX8\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\MSI\\source\\repos\\TP2\\TP2EX8\\TP2EX8\\Form1.Designer.cs",
               "RelativeToolTip": "TP2EX8\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAkwK8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T09:54:19.402Z",
               "EditorCaption": ""
@@ -43,9 +43,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\TP2\\TP2EX8\\TP2EX8\\Form1.cs",
               "RelativeDocumentMoniker": "TP2EX8\\Form1.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\TP2\\TP2EX8\\TP2EX8\\Form1.cs",
-              "RelativeToolTip": "TP2EX8\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\TP2\\TP2EX8\\TP2EX8\\Form1.cs*",
+              "RelativeToolTip": "TP2EX8\\Form1.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwDsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T09:53:41.275Z",
               "EditorCaption": ""
@@ -56,10 +56,11 @@
               "Title": "Form1.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\TP2\\TP2EX8\\TP2EX8\\Form1.cs",
               "RelativeDocumentMoniker": "TP2EX8\\Form1.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\TP2EX8\\TP2EX8\\Form1.cs [Conception]",
-              "RelativeToolTip": "..\\..\\TP2EX8\\TP2EX8\\Form1.cs [Conception]",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\TP2\\TP2EX8\\TP2EX8\\Form1.cs [Conception]*",
+              "RelativeToolTip": "TP2EX8\\Form1.cs [Conception]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:53:13.006Z"
+              "WhenOpened": "2024-10-14T09:53:13.006Z",
+              "EditorCaption": " [Conception]"
             }
           ]
         }

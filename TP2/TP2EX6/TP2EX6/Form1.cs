@@ -14,7 +14,8 @@ namespace TP2EX6
         {
             if (int.TryParse(txtNumber.Text, out int number) && number > 0)
             {
-                txtResult.Clear(); 
+                txtResult.Clear();
+
                 for (int i = 1; i <= 10; i++)
                 {
                     txtResult.AppendText($"{number} x {i} = {number * i}\r\n");
@@ -28,9 +29,10 @@ namespace TP2EX6
 
         private void btnClear_Click(object sender, EventArgs e)
         {
-            
             txtNumber.Clear();
             txtResult.Clear();
+
+            txtNumber.Focus();
         }
     }
 }
